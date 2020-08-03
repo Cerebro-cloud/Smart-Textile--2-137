@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smarttextile-137",
+  "private_key_id": "265d1cea54f85068a7e6ac66f6931fac7249ef90",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDMO7Ov1dsTbZCY\nCvKOJNgAO4gIT89jeoICEmhY+dOKqkAdD3pNnoNEB889s3pp4ayY6uaZ1PSGkQk4\nUl1HYsRnmx3HzNK1HXtc+dLCUSB6cYhEL05XjxR+E9009qSiy3lqYS9dhQbzrx+o\nZexKDoWRq0JFOR5qFPAEhqFUjt0JMsFJPrAOHU4FoAlfaH6ZtTIvKiKo4p73mJtb\nebHzvzm0pYd06JgCROYAK5ol29F8BABTPCoolrS+2+YcTVEr2DwL4wqXajtTfGc9\nDfbyb7/ypSRlVMdtUxB97JoFjdws6SZpVcZKx51Z08iv5gZQDovToAAACi6hBYgP\nzFIizB4hAgMBAAECggEAJWoSgvXkimyZ/qCSyuOJBpHhW9RzI8A/rO1+XD54OIDz\n+d7qAuo1FfNwTddhZ6BGJEV0NV5D5ZsQW1cLa5Z2cJyEGiQ1vaRHA0NpDtwZ3RSL\naCJaccPudyJgdeFxS7mG5qwjJzjFi0Lbw9fYL8D1SzhajZ/nKHvpdIrNZ1Y8vABS\nffpqF+E7eZjcijfEcSf9o4u7hEVwPwpu8CHlU2DUwmcidWUPIFDCOyIYuxs5Y1pw\nWaOVZLcFDmSIbf/OEqziBHTPo5Wa5Yp6ZV0ThVs+4NvboY08/9LYgukYCs2pUgrV\nU7A8cXUrgndP2EkoQ3Wyve1khPGRd+ZIqn9HX5Qm+QKBgQDtcvnVobpUlgC1GLiM\nlLkxsdJxFJeMdoI1KzUz4t7kCFTHwZiWqi8EfDn0MC7h8/s26bxD+8t515UvO9Jc\nVZOPTxvpzuDF2gSoH1p7elMZwUbM3NgQ19J1OURcqKKCMxpF0LuOeQYoNpKpOZBy\nXTB9mR7n+74/llPDREhJ8r3cGwKBgQDcMGbh9yBVXJhq8MAYChe0Vb0J+6UrvXV0\nwt1NYWMq6omIuCRIXKamdDNpCVYDj/hU/Ri30CjMgdTrRtL5j3TkUYHTzNFOWCHn\nHugLjv8Bc5+qBZcOaSeOTygHCPT8lr1dERW3VeEUbQNokKAGZUkiPLgN3Cpc8z6o\nKc5HwO6acwKBgQC0DEDA6tc9GFkE+O/HOWaL9ghaUoDvs1TcOB0pcNgOFPskVPn9\nFKJ+Riwzqu2By90rMGTfL+iERSIMJNJHzWQMgLHrwkDSBZUOXmffxUuJ9fJXmQYF\nD4G3/WqG0CAZleJQGgx95erzRx5CTzHmZh9EvXyf71W9JaHyKK6f0/5/DQKBgQDE\n7REGpVOopIC4nArhNR2QLmI8bHCDlxVWUPVFwITFnC9XNIFWqm5tTl2wYiYoV3mc\n4SNbOfNTPAamSZhklDXSAUegmnzTmaTwpMaZl9Ffhf5VPFymCcvTzd2ZtRwOT+6a\nLq6CYm9EKl8zBK3qKmnnEfD2jGLi8LWoBoOzzsxXGwKBgQCJXmdzyURJoxeqwrAc\nbFYqe/zQXmzNq/zFQSZrXin5YvhnejeKT8A0FbQKze0hib7EVML4j4FmqU8A8pzd\n13EjC7Yw0EqtHY6X3xEBOaHnCPxX9wQS+16iyL5oHR96JVf9z3h3SDMDwKo1eB/O\nlUdoi7SLe10IOfi1gNljw3zSeg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-i0m3g@smarttextile-137.iam.gserviceaccount.com",
+  "client_id": "113185247923053714229",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-i0m3g%40smarttextile-137.iam.gserviceaccount.com"
+}
